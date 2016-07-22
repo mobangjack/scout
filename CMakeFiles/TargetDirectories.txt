@@ -1,0 +1,1 @@
+/home/bj/文档/scout4/CMakeFiles/scout.dir
